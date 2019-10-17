@@ -1,0 +1,13 @@
+Assignment 2: Practicum Project Ideas
+Team 8
+ECE 411
+Fall 2019
+
+Idea 1:
+Our first idea is to create a very scaled down version of airplane landing gear. We were thinking we could get a 2D airplane cutout in some sort of material. This will allow us to mount our circuit board easily, and make plenty of them for cheap. For our controller we will use the recommended controller that Andrew suggested on our first day of class. For our actuators we are going to use a servo motor to control the landing gear, and for the sensor we will use a simple rangefinder to automatically raise the landing gear once the plane reaches a distance above the ground. We also discussed the idea of using a Pitot tube and pressure sensors to determine when the plane reaches a certain speed as the response that withdraws the landing gears. We need to do some research into the difficulty of these two routes and what potential problems each may face: what is a good height to choose and do we have to worry about objects in a room interfering with this? What about speeds and maintaining the speed? Is there any feasibility into getting this to work on an actual RC plane depending on factors like cost, difficulty integrating into the plane’s current systems, etc.
+
+Idea 2:
+	Another idea of ours was similar to an example that was told to us in class. This would be a Nerf football that made noises when thrown and when it slows down. The controller will be the suggested one by Andrew on the first class, the sensor would be an accelerometer, and the actuator could be a speaker of some sorts.
+
+Idea 3:
+	With Halloween approaching we thought it could be fun to build a little show as seen by a user on Reddit. The show would essentially be a bunch of foam pumpkins cut in half with drawn on faces that use servo motors to open and close the “mouths” of the pumpkins. A song would be chosen that would be fed through an Arduino and used to control the rotation of the servo motors, making it look like the pumpkins were singing along to the song. We decided that we weren’t sure if this fits the requirements of the project, and also seemed outside the spirit of the project since there is already a guide on the internet on how to set something like this up. Instead we decided to keep this as inspiration for a jump off point in case our landing gear idea was not deemed feasible.
